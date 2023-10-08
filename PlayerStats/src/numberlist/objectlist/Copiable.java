@@ -1,0 +1,20 @@
+package numberlist.objectlist;
+
+/**
+ * This interface provides a deep copy of all the fields of an object,
+ * resulting in a new object of the same class.
+ *
+ * @author [Paula Elsaeed]
+ * @author [Deanna Siaterlis]
+ * @author [Hilana Ibrahim]
+ * @author [Aman Siid]
+ * @version 3/2/20
+ */
+public interface Copiable {
+
+    /* This method creates a deep copy of an object.
+     * 
+     * @return a Copiable object
+     */
+    public Copiable makeDeepCopy();
+}
