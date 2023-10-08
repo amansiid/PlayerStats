@@ -3,9 +3,6 @@ package numberlist;
 /**
  * Custom exception that is thrown when index is out of bounds.
  * 
- * @author [Paula Elsaeed]
- * @author [Deanna Siaterlis]
- * @author [Hilana Ibrahim]
  * @author [Aman Siid]
  * @version 03/2/2020
  */

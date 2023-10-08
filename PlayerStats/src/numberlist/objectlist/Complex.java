@@ -7,9 +7,6 @@ import java.math.MathContext;
 /**
  * This class represents a single complex number of the form x + yi.
  *
- * @author [Paula Elsaeed]
- * @author [Deanna Siaterlis]
- * @author [Hilana Ibrahim]
  * @author [Aman Siid]
  * @version 3/2/20
  *
