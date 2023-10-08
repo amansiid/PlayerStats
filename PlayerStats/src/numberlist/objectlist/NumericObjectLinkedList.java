@@ -9,9 +9,6 @@ import numberlist.IndexRangeException;
  * This class represents the List ADT with all its basic methods and has data
  * storage techniques that rely upon a linked series of objects.
  *
- * @author [Paula Elsaeed]
- * @author [Deanna Siaterlis]
- * @author [Hilana Ibrahim]
  * @author [Aman Siid]
  *
  * @version 3/2/2020 

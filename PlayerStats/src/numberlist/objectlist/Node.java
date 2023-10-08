@@ -5,9 +5,6 @@ import java.io.Serializable;
 /**
  * This class represents objects of the Copiable class as its values.
  *
- * @author [Paula Elsaeed]
- * @author [Deanna Siaterlis]
- * @author [Hilana Ibrahim]
  * @author [Aman Siid]
  * @version 3/2/20
  */

@@ -1,4 +1,4 @@
-package group4;
+package playerstat;
 
 import java.util.ArrayList;
 import javafx.application.Application;
@@ -36,9 +36,6 @@ import javafx.scene.paint.Color;
 /**
  * GUI Players sets actions to all buttons
  *
- * @author [Paula Elsaeed]
- * @author [Deanna Siaterlis]
- * @author [Hilana Ibrahim]
  * @author [Aman Siid]
  * @version 3/19/2020
  *

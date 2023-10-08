@@ -7,9 +7,6 @@ import numberlist.IndexRangeException;
  * This class provides a growable array for real numbers. It is a child of
  * BigFloatArrayList
  *
- * @author [Paula Elsaeed]
- * @author [Deanna Siaterlis]
- * @author [Hilana Ibrahim]
  * @author [Aman Siid]
  * 
  * @version 3/2/20

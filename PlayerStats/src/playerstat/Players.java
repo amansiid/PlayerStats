@@ -1,4 +1,4 @@
-package group4;
+package playerstat;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -17,9 +17,6 @@ import numberlist.primitivelist.IntegerArrayList;
 
 /**
  *
- * @author [Paula Elsaeed]
- * @author [Deanna Siaterlis]
- * @author [Hilana Ibrahim]
  * @author [Aman Siid]
  * @version 3/19/2020
  *

@@ -1,12 +1,9 @@
-package group4;
+package playerstat;
 
 import javafx.application.Application;
 
 /**
  *
- * @author [Paula Elsaeed]
- * @author [Deanna Siaterlis]
- * @author [Hilana Ibrahim]
  * @author [Aman Siid]
  * @version 3/9/2020
  * 

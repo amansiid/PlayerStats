@@ -5,9 +5,6 @@ import java.io.Serializable;
 /**
  * This class represents a single monetary value in U.S. dollars and cents.
  *
- * @author [Paula Elsaeed]
- * @author [Deanna Siaterlis]
- * @author [Hilana Ibrahim]
  * @author [Aman Siid]
  * @version 3/2/20
  */

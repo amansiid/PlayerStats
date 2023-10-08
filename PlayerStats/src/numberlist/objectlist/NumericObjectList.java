@@ -5,9 +5,6 @@ import numberlist.IndexRangeException;
 /**
  * This class represents the List ADT with all its basic methods.
  *
- * @author [Paula Elsaeed]
- * @author [Deanna Siaterlis]
- * @author [Hilana Ibrahim]
  * @author [Aman Siid]
  * @version 3/2/20 
  */

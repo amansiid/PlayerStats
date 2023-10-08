@@ -8,9 +8,6 @@ import java.time.ZoneOffset;
 /**
  * class rep month day year
  * 
- * @author [Paula Elsaeed]
- * @author [Deanna Siaterlis]
- * @author [Hilana Ibrahim]
  * @author [Aman Siid]
  * @version 3/19/2020
  */

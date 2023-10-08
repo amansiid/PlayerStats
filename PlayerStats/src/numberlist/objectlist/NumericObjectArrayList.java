@@ -8,9 +8,6 @@ import numberlist.IndexRangeException;
 /**
  * This class provides a growable array for primitive Object values.
  *
- * @author [Paula Elsaeed]
- * @author [Deanna Siaterlis]
- * @author [Hilana Ibrahim]
  * @author [Aman Siid]
  * @version 3/2/20
  */
